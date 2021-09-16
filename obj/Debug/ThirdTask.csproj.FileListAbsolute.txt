@@ -1,0 +1,9 @@
+D:\Documents\Programs\iTrasition\ThirdTask\bin\Debug\ThirdTask.exe
+D:\Documents\Programs\iTrasition\ThirdTask\bin\Debug\ThirdTask.pdb
+D:\Documents\Programs\iTrasition\ThirdTask\obj\Debug\ThirdTask.csproj.AssemblyReference.cache
+D:\Documents\Programs\iTrasition\ThirdTask\obj\Debug\ThirdTask.csproj.CoreCompileInputs.cache
+D:\Documents\Programs\iTrasition\ThirdTask\obj\Debug\ThirdTask.exe
+D:\Documents\Programs\iTrasition\ThirdTask\obj\Debug\ThirdTask.pdb
+D:\Documents\Programs\iTrasition\ThirdTask\bin\Debug\ConsoleTables.dll
+D:\Documents\Programs\iTrasition\ThirdTask\bin\Debug\ConsoleTables.pdb
+D:\Documents\Programs\iTrasition\ThirdTask\obj\Debug\ThirdTask.csproj.CopyComplete
